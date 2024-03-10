@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095011907605",
+    "project_id": "todo-dac5e",
+    "storage_bucket": "todo-dac5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095011907605:android:54f6a4ce4bb7eed241761c",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmK5xwHOesgkGgtqjRU4TTREjzdvg1hEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
